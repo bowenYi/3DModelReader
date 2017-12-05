@@ -1,2 +1,2 @@
 # 3DModelReader
-read 3D model and display by c++ with openGL
+read 3D model and display it by c++ with openGL
